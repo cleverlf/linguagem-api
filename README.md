@@ -33,7 +33,7 @@ Aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem.
 
 ## Acesso ao projeto
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+**https://github.com/cleverlf/linguagem-api.git**
 
 ## Técnicas e tecnologias utilizadas
 
