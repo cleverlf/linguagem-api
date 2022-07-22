@@ -13,6 +13,7 @@
 * [Desafios](#Desafios)
 * [Material Complementar](#Material-Complementar)
 * [Autores](#Autores)
+* [Instrutores e Instrutoras da Alura nessa imersão](#Instrutores-e-Instrutoras-da-Alura-nessa-imersão)
 
 ## Descrição do projeto 
 
@@ -191,5 +192,15 @@ Aula 5 :
  
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/103513175?s=400&u=b890cd5de5f71649999799d282a196ab7f5a2347&v=4" width=115><br><sub>Clever</sub>](https://github.com/cleverlf) |
+| ![Clever](https://avatars.githubusercontent.com/u/103513175?s=400&u=b890cd5de5f71649999799d282a196ab7f5a2347&v=4)|
 | :---: |
+| [Clever](https://github.com/cleverlf) |
+
+
+## Instrutores e Instrutoras da Alura nessa imersão
+ ![Jacqueline Oliveira](https://www.alura.com.br/assets/img/imersao-java/jaque-imersao-java-bio.1657213671.png) |![Alexandre Aquiles](https://www.alura.com.br/assets/img/imersao-java/alexandre-imersao-java-bio.1657213503.png)| ![Paulo Silveira](https://www.alura.com.br/assets/img/imersao-java/paulo-imersao-java-bio.1657213503.png)
+| :---: | :---: | :---:
+Jacqueline Oliveira | Alexandre Aquiles | Paulo Silveira
+ [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/jacque.tech/) [![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/jacqueline-r-oliveira/)   | [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/aquiles3137/)[![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/alexandreaquiles/) | [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/paulo_hipster)[![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/paulosilveira)
+
+
