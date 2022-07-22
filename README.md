@@ -1,10 +1,6 @@
-<p align="center">
-  <img width="500" height="140" alt="CacheLib" src="https://lh4.googleusercontent.com/Lb2XTpd5bBDdZm2bmdG1y3YpwX18BEyCeEfOlpfpRulDMlWKjy0a1Bvs6J33iTsBcAn0Tew6J1DE2zlAUg7XhUeoE1wBjeVcNpdF6lQeWgdzLIr0tEDlfaPuOvv5vG2KDQ=w1600">
-</p>
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+![CacheLib](https://lh4.googleusercontent.com/Lb2XTpd5bBDdZm2bmdG1y3YpwX18BEyCeEfOlpfpRulDMlWKjy0a1Bvs6J33iTsBcAn0Tew6J1DE2zlAUg7XhUeoE1wBjeVcNpdF6lQeWgdzLIr0tEDlfaPuOvv5vG2KDQ=w1600)
 
+![](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## Índice 
 
@@ -20,10 +16,13 @@
 
 ## Descrição do projeto 
 
-- <p>Construção de uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação...</p>
-- <p>Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos!</p>
-- <p>Construção de uma API REST para expor nosso próprio conteúdo, utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL.</p>
-- <p>Aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem.</p>
+Construção de uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação...
+
+Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos!
+
+Construção de uma API REST para expor nosso próprio conteúdo, utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL.
+
+Aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem.
 
 ## Funcionalidades do projeto
 
@@ -43,119 +42,152 @@
 
 ## Links citados
 
-- Aula 1 :<ul>
-              <li><p>Os <a href="https://www.imdb.com/chart/top/" target="_blank" rel="noopener">250 melhores filmes de acordo com a classificação do IMDB</a>.</p></li>
-              <li><p>A <a href="https://imdb-api.com/api" target="_blank" rel="noopener">documentação da API do IMDB</a>.</p></li>
-              <li><p>Instalação do Visual Studio Code com o <a href="https://code.visualstudio.com/docs/languages/java#_install-visual-studio-code-for-java" target="_blank" rel="noopener">Coding Pack para Java</a></p></li>
-              <li><p>Documentação da classe <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html" target="_blank" rel="noopener">HttpRequest do pacote java.net.http</a>.</p></li>
-              <li><p>Classe pronta que utiliza Expressões Regulares para fazer <a href="https://gist.github.com/alexandreaquiles/cf337d3bcb59dd790ed2b08a0a4db7a3" target="_blank" rel="noopener">parse de um JSON</a>.</p></li>
-              <li><p><a href="https://github.com/FasterXML/jackson" target="_blank" rel="noopener">Biblioteca Jackson, que faz parse de JSON</a>.</p></li>
-              <li><p>Site que ajuda a entender <a href="https://regex101.com/" target="_blank" rel="noopener">Expressões Regulares</a>.</p></li>
-              <li><p>Artigo: <a href="https://www.alura.com.br/artigos/escrever-bom-readme">Como deixar no seu GitHub com um README interessante</a>.</p></li>
-              <li><p>O endpoint da API do IMDB que devolve os 250 melhores filmes: <a href="https://imdb-api.com/en/API/Top250Movies/" target="_blank" rel="noopener">https://imdb-api.com/en/API/Top250Movies/</a> + <strong>SUA-API-KEY</strong></p></li>
-          </ul>
-- Aula 2 :<ul>
-              <li><p>Documentação do <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/imageio/package-summary.html" target="_blank" rel="noopener">pacote javax.imageio</a>, que trata de leitura e escrita de imagens.</p></li>
-              <li><p>Documentação da <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/java/awt/image/BufferedImage.html" target="_blank" rel="noopener">classe BufferedImage</a>, que representa uma imagem no Java</p></li>
-              <li><p>Documentação da classe <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/java/awt/Graphics2D.html" target="_blank" rel="noopener">Graphics2D</a>, a “caneta” que permite escrever, desenhar e imprimir outras imagens em uma imagem original.</p></li>
-              <li><p>Documentação da <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/InputStream.html" target="_blank" rel="noopener">abstração InputStream</a>, que representa um fluxo de leitura de dados de qualquer fonte, como arquivos, URLs, entre outros.</p></li>
-          </ul>
-- Aula 3 :<ul>
-              <li>Documentação das <a href="https://api.nasa.gov/" target="_blank" rel="noopener">APIs da NASA</a>.</li>
-              <li>API da <a href="https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY" target="_blank" rel="noopener">Foto Astronômica do dia da NASA</a>.</li>
-              <li>Artigo na Alura <a href="https://www.alura.com.br/artigos/nao-aprender-oo-getters-e-setters">“Como não aprender Java e Orientação a Objetos: getters e setters”</a>.</li>
-              <li>Livro <a href="https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612" target="_blank" rel="noopener">“Design Patterns”</a>, de 1994, que descreve soluções comuns para problemas recorrentes de como organizar seu código.</li>
-              <li>Livro <a href="https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672" target="_blank" rel="noopener">“Refactoring”</a>, de 1999, que cataloga maneiras sistemáticas de melhorar o código sem modificar o que é feito.</li>
-         </ul> 
-- Aula 4 :<ul>
-              <li><a href="https://spring.io/" target="_blank" rel="noopener">Documentação do Spring Framework</a>.</li>
-              <li>Link para <a href="https://start.spring.io/" target="_blank" rel="noopener">iniciar um projeto utilizando Spring</a>.</li>
-              <li>Link para <a href="https://maven.apache.org/download.cgi" target="_blank" rel="noopener">download do Maven</a>.</li>
-              <li>Link para <a href="https://www.postman.com/" target="_blank" rel="noopener">download do Postman</a>.</li>
-              <li>Página para fazer o <a href="https://www.mongodb.com/cloud/atlas/register" target="_blank" rel="noopener">registro e começar a utilizar o MongoDb Atlas</a>.</li>
-              <li>GitHub com os <a href="https://github.com/abrahamcalf/programming-languages-logos" target="_blank" rel="noopener">logos das linguagens de programação</a>.</li>
-              <li>Artigo sobre o <a href="https://www.alura.com.br/artigos/stickers-dev-aluraverso-whatsapp-telegram">pack de stickers da Alura para Whatsapp e Telegram</a>.</li>
-         </ul> 
-- Aula 5 :<ul>
-              <li><a href="https://www.alura.com.br/dev-em-t">Dev em T: especialista x generalista</a>.</li>
-              <li>Site do <a href="https://www.heroku.com/" target="_blank" rel="noopener">Heroku</a>, que é um PaaS (plataforma como serviço).</li>
-              <li>Documentação sobre a <a href="https://docs.oracle.com/pt-br/iaas/Content/home.htm" target="_blank" rel="noopener">Oracle Cloud</a>.</li>
-              <li>Artigo: <a href="https://www.alura.com.br/artigos/escrever-bom-readme">Como elaborar um bom arquivo Readme para os seus projetos</a>.</li>
-         </ul> 
- 
+Aula 1 :
+
+*   Os [250 melhores filmes de acordo com a classificação do IMDB](https://www.imdb.com/chart/top/).
+    
+*   A [documentação da API do IMDB](https://imdb-api.com/api).
+    
+*   Instalação do Visual Studio Code com o [Coding Pack para Java](https://code.visualstudio.com/docs/languages/java#_install-visual-studio-code-for-java)
+    
+*   Documentação da classe [HttpRequest do pacote java.net.http](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html).
+    
+*   Classe pronta que utiliza Expressões Regulares para fazer [parse de um JSON](https://gist.github.com/alexandreaquiles/cf337d3bcb59dd790ed2b08a0a4db7a3).
+    
+*   [Biblioteca Jackson, que faz parse de JSON](https://github.com/FasterXML/jackson).
+    
+*   Site que ajuda a entender [Expressões Regulares](https://regex101.com/).
+    
+*   Artigo: [Como deixar no seu GitHub com um README interessante](https://www.alura.com.br/artigos/escrever-bom-readme).
+    
+*   O endpoint da API do IMDB que devolve os 250 melhores filmes: [https://imdb-api.com/en/API/Top250Movies/](https://imdb-api.com/en/API/Top250Movies/) + **SUA-API-KEY**
+    
+
+Aula 2 :
+
+*   Documentação do [pacote javax.imageio](https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/javax/imageio/package-summary.html), que trata de leitura e escrita de imagens.
+    
+*   Documentação da [classe BufferedImage](https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/java/awt/image/BufferedImage.html), que representa uma imagem no Java
+    
+*   Documentação da classe [Graphics2D](https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/java/awt/Graphics2D.html), a “caneta” que permite escrever, desenhar e imprimir outras imagens em uma imagem original.
+    
+*   Documentação da [abstração InputStream](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/InputStream.html), que representa um fluxo de leitura de dados de qualquer fonte, como arquivos, URLs, entre outros.
+    
+
+Aula 3 :
+
+*   Documentação das [APIs da NASA](https://api.nasa.gov/).
+*   API da [Foto Astronômica do dia da NASA](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY).
+*   Artigo na Alura [“Como não aprender Java e Orientação a Objetos: getters e setters”](https://www.alura.com.br/artigos/nao-aprender-oo-getters-e-setters).
+*   Livro [“Design Patterns”](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612), de 1994, que descreve soluções comuns para problemas recorrentes de como organizar seu código.
+*   Livro [“Refactoring”](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672), de 1999, que cataloga maneiras sistemáticas de melhorar o código sem modificar o que é feito.
+
+Aula 4 :
+
+*   [Documentação do Spring Framework](https://spring.io/).
+*   Link para [iniciar um projeto utilizando Spring](https://start.spring.io/).
+*   Link para [download do Maven](https://maven.apache.org/download.cgi).
+*   Link para [download do Postman](https://www.postman.com/).
+*   Página para fazer o [registro e começar a utilizar o MongoDb Atlas](https://www.mongodb.com/cloud/atlas/register).
+*   GitHub com os [logos das linguagens de programação](https://github.com/abrahamcalf/programming-languages-logos).
+*   Artigo sobre o [pack de stickers da Alura para Whatsapp e Telegram](https://www.alura.com.br/artigos/stickers-dev-aluraverso-whatsapp-telegram).
+
+Aula 5 :
+
+*   [Dev em T: especialista x generalista](https://www.alura.com.br/dev-em-t).
+*   Site do [Heroku](https://www.heroku.com/), que é um PaaS (plataforma como serviço).
+*   Documentação sobre a [Oracle Cloud](https://docs.oracle.com/pt-br/iaas/Content/home.htm).
+*   Artigo: [Como elaborar um bom arquivo Readme para os seus projetos](https://www.alura.com.br/artigos/escrever-bom-readme).
  
 ## Desafios
 
-- Aula 1 :<ol>
-              <li><p>Consumir o endpoint de filmes mais populares da API do IMDB. Procure também, na documentação da API do IMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.</p></li>
-              <li><p>Usar sua criatividade para deixar a saída dos dados mais bonitinha: usar emojis com código UTF-8, mostrar a nota do filme como estrelinhas, decorar o terminal com cores, negrito e itálico usando códigos ANSI, e mais!</p></li>
-              <li><p>Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente</p></li>
-              <li><p>Mudar o JsonParser para usar uma biblioteca de parsing de JSON como Jackson ou GSON</p></li>
-              <li><p><strong>Desafio supremo:</strong> criar alguma maneira para você dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.</p></li>
-          </ol>
-- Aula 2 :<ol>
-              <li>Ler a documentação da classe abstrata InputStream.</li>
-              <li>Centralizar o texto na figurinha.</li>
-              <li>Fazer um pacote no Whatsapp e/ou Telegram com as suas próprias figurinhas!</li>
-              <li>Criar diretório de saída das imagens, se ainda não existir.</li>
-              <li>Colocar outra fonte como a Comic Sans ou a Impact, a fonte usada em memes.</li>
-              <li>Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha!</li>
-              <li>Colocar contorno (outline) no texto da imagem.</li>
-              <li>Tratar as imagens retornadas pela API do IMDB para pegar uma imagem maior ao invés dos thumbnails. Opções: pegar a URL da imagem e remover o trecho mostrado durante a aula ou consumir o endpoint de posters da API do IMDB (mais trabalhoso), tratando o JSON retornado.</li>
-              <li>Fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB.</li>
-              <li><strong>Desafio supremo:</strong> usar alguma biblioteca de manipulação de imagens como <a href="https://github.com/opencv-java" target="_blank" rel="noopener">OpenCV</a> pra extrair imagem principal e contorná-la.</li>
-         </ol>
-- Aula 3 :<ol>
-              <li>Transformar a classe que representa os conteúdos em um Record, disponível a partir do Java 16</li>
-              <li>Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP</li>
-              <li>Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra</li>
-              <li>Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado</li>
-              <li><strong>Desafio supremo:</strong> consumir outras APIs que contém imagens, como a da Marvel, que é bem diferente. Repositório com APIs públicas: <a href="https://github.com/public-apis/public-apis" target="_blank" rel="noopener">clique aqui</a>.</li>
-         </ol>
-- Aula 4 :<ol>
-              <li>Finalizar o CRUD (Create, Read, Update e Delete) para que se possa atualizar e excluir uma linguagem cadastrada;</li>
-              <li>Devolver a listagem ordenada pelo ranking;</li><li>Criar na sua API um modelo de entidade com nomes diferentes de title e image e criar seu próprio extrator de informações personalizado OU, manter com o nome title e image e traduzir para que seja retornado como título e imagem através do uso de DTO (Data Transfer Object);</li>
-              <li>Retornar o status 201 quando um recurso (linguagem, no nosso caso) for cadastrado através do POST;</li>
-              <li><strong>Desafio supremo:</strong> Aplicar modificações parciais no recurso através do método PATCH, por exemplo, modificando o número de votos ou de pessoas que utilizam cada linguagem de programação.</li>
-         </ol>
-- Aula 5 :<ol>
-              <li>Compartilhe com seus amigos a sua URL do Heroku, para que eles possam consumir a sua API (com o padrão de atributos title e image)  e gerar figurinhas do conteúdo que você utilizou (linguagens de programação, filmes, músicas);</li>
-              <li>Colocar a aplicação no cloud da Oracle;</li>
-              <li>Implementar algum mecanismo de votação na API, para que outros amigos votem nas linguagens preferidas para que se possa fazer um ranking;</li>
-              <li><strong>Desafio supremo</strong>: Evoluir o projeto das três primeiras aula para que ele gere um bundle de stickers, para que se possa fazer o download e já incluir vários stickers no WhatsApp; Usar os conhecimentos aprendidos em alguma imersão React da Alura e fazer uma aplicação front-end para gerar esse bundle, onde possa se passar a URL do conteúdo e já visualizar os stickers;</li>
-         </ol>
+Aula 1 :
+
+1.  Consumir o endpoint de filmes mais populares da API do IMDB. Procure também, na documentação da API do IMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.
+    
+2.  Usar sua criatividade para deixar a saída dos dados mais bonitinha: usar emojis com código UTF-8, mostrar a nota do filme como estrelinhas, decorar o terminal com cores, negrito e itálico usando códigos ANSI, e mais!
+    
+3.  Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente
+    
+4.  Mudar o JsonParser para usar uma biblioteca de parsing de JSON como Jackson ou GSON
+    
+5.  **Desafio supremo:** criar alguma maneira para você dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.
+    
+
+Aula 2 :
+
+1.  Ler a documentação da classe abstrata InputStream.
+2.  Centralizar o texto na figurinha.
+3.  Fazer um pacote no Whatsapp e/ou Telegram com as suas próprias figurinhas!
+4.  Criar diretório de saída das imagens, se ainda não existir.
+5.  Colocar outra fonte como a Comic Sans ou a Impact, a fonte usada em memes.
+6.  Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha!
+7.  Colocar contorno (outline) no texto da imagem.
+8.  Tratar as imagens retornadas pela API do IMDB para pegar uma imagem maior ao invés dos thumbnails. Opções: pegar a URL da imagem e remover o trecho mostrado durante a aula ou consumir o endpoint de posters da API do IMDB (mais trabalhoso), tratando o JSON retornado.
+9.  Fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB.
+10.  **Desafio supremo:** usar alguma biblioteca de manipulação de imagens como [OpenCV](https://github.com/opencv-java) pra extrair imagem principal e contorná-la.
+
+Aula 3 :
+
+1.  Transformar a classe que representa os conteúdos em um Record, disponível a partir do Java 16
+2.  Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP
+3.  Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra
+4.  Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado
+5.  **Desafio supremo:** consumir outras APIs que contém imagens, como a da Marvel, que é bem diferente. Repositório com APIs públicas: [clique aqui](https://github.com/public-apis/public-apis).
+
+Aula 4 :
+
+1.  Finalizar o CRUD (Create, Read, Update e Delete) para que se possa atualizar e excluir uma linguagem cadastrada;
+2.  Devolver a listagem ordenada pelo ranking;
+3.  Criar na sua API um modelo de entidade com nomes diferentes de title e image e criar seu próprio extrator de informações personalizado OU, manter com o nome title e image e traduzir para que seja retornado como título e imagem através do uso de DTO (Data Transfer Object);
+4.  Retornar o status 201 quando um recurso (linguagem, no nosso caso) for cadastrado através do POST;
+5.  **Desafio supremo:** Aplicar modificações parciais no recurso através do método PATCH, por exemplo, modificando o número de votos ou de pessoas que utilizam cada linguagem de programação.
+
+Aula 5 :
+
+1.  Compartilhe com seus amigos a sua URL do Heroku, para que eles possam consumir a sua API (com o padrão de atributos title e image) e gerar figurinhas do conteúdo que você utilizou (linguagens de programação, filmes, músicas);
+2.  Colocar a aplicação no cloud da Oracle;
+3.  Implementar algum mecanismo de votação na API, para que outros amigos votem nas linguagens preferidas para que se possa fazer um ranking;
+4.  **Desafio supremo**: Evoluir o projeto das três primeiras aula para que ele gere um bundle de stickers, para que se possa fazer o download e já incluir vários stickers no WhatsApp; Usar os conhecimentos aprendidos em alguma imersão React da Alura e fazer uma aplicação front-end para gerar esse bundle, onde possa se passar a URL do conteúdo e já visualizar os stickers;
  
 ## Material Complementar
 
-- Aula 1 :<ul>
-              <li><p>Artigo na Alura <a href="https://www.alura.com.br/artigos/o-que-e-json">“O que é JSON?”</a>.</p></li>
-              <li><p>Artigo na Alura sobre como <a href="https://www.alura.com.br/artigos/decorando-terminal-cores-emojis">pintar o terminal, com tabelinha de cores e negrito</a>.</p></li>
-              <li><p>Artigo na Alura sobre como usar <a href="https://www.alura.com.br/artigos/desenvolvendo-aplicacoes-java-vs-code">VS Code para codar em Java</a>.</p></li>
-         </ul>
-- Aula 2 :<ul>
-              <li>Primeira aula do curso <a href="https://www.alura.com.br/conteudo/java-heranca-interfaces-polimorfismo">“Java Polimorfismo: entenda herança e interfaces”</a> da Alura.</li>
-              <li>Apêndice da apostila <a href="https://www.alura.com.br/apostila-java-orientacao-objetos/apendice-pacote-java-io">“Java e Orientação a Objetos”</a> da Alura sobre o pacote java.io que explica com mais detalhes a abstração InputStream.</li>
-         </ul>
-- Aula 3 :<ul>
-              <li>Artigo na Alura  <a href="https://www.alura.com.br/artigos/como-nao-aprender-orientacao-a-objetos-heranca">“Como não aprender Java e Orientação a Objetos: herança”</a>.</li>
-              <li>Podcast Hipsters.tech sobre <a href="https://www.alura.com.br/podcast/praticas-de-orientacao-a-objetos-hipsters-129-a453">Práticas de Orientação a Objetos</a>.</li>
-              <li>Podcast Hipsters.tech sobre <a href="https://www.alura.com.br/podcast/design-patterns-hipsters-206-a345">Design Patterns</a>.</li>
-              <li>Podcast Hipsters.tech sobre <a href="https://www.alura.com.br/podcast/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219-a649">SOLID</a>.</li>
-         </ul>
-- Aula 4 :<ul>
-              <li>Primeira aula do curso <a href="https://www.alura.com.br/conteudo/maven-gerenciamento-dependencias-build-aplicacoes-java">“Maven: gerenciamento de dependências e build de aplicações Java”</a> da Alura.</li>
-              <li>Alura+ <a href="https://www.youtube.com/watch?v=weQ8ssA6iBU&amp;ab_channel=AluraCursosOnline" target="_blank" rel="noopener">“O que é REST?”</a>.</li>
-              <li>Artigo da Alura <a href="https://www.alura.com.br/artigos/rest-conceito-e-fundamentos">“Conceito e fundamentos sobre REST”</a>.</li>
-              <li>Podcast <a href="https://www.hipsters.tech/mongodb-hipsters-ponto-tech-305/">Hipsters.Tech sobre MongoDB</a>.</li>
-              <li>Hipters.Tube <a href="https://www.youtube.com/watch?v=aure5d3B88g&amp;ab_channel=AluraCursosOnline" target="_blank" rel="noopener">“O que é SQL e NoSQL?”</a>.</li>
-              <li>Artigo da Alura <a href="https://www.alura.com.br/artigos/spring-conheca-esse-framework-java">“Spring: Conheça esse framework Java”</a>.</li>
-              <li>Alura+ <a href="https://www.youtube.com/watch?v=op81bMbgZXs&amp;ab_channel=AluraCursosOnline" target="_blank" rel="noopener">Introdução ao Postman”</a>.</li>
-         </ul>
-- Aula 5 :<ul>
-              <li>Artigo da Alura <a href="https://www.alura.com.br/artigos/heroku-vercel-outras-opcoes-cloud-plataforma">“Heroku, Vercel e outras opções de Cloud como plataforma”</a>.</li>
-              <li>Podcast Hipters.Tech <a href="https://www.alura.com.br/podcast/hipsterstech-integracao-continua-deploy-continuo-e-github-actions-hipsters-213-a335">“Integração Contínua, Deploy Contínuo e Github Actions”</a>.</li>
-              <li>Pesquisa da JetBrains, empresa que desenvolve a IDE IntelliJ, <a href="https://www.jetbrains.com/lp/devecosystem-2021/java/" target="_blank" rel="noopener">sobre o ecossistema Java em 2021</a>.</li>
-         </ul>
+Aula 1 :
+
+*   Artigo na Alura [“O que é JSON?”](https://www.alura.com.br/artigos/o-que-e-json).
+    
+*   Artigo na Alura sobre como [pintar o terminal, com tabelinha de cores e negrito](https://www.alura.com.br/artigos/decorando-terminal-cores-emojis).
+    
+*   Artigo na Alura sobre como usar [VS Code para codar em Java](https://www.alura.com.br/artigos/desenvolvendo-aplicacoes-java-vs-code).
+    
+
+Aula 2 :
+
+*   Primeira aula do curso [“Java Polimorfismo: entenda herança e interfaces”](https://www.alura.com.br/conteudo/java-heranca-interfaces-polimorfismo) da Alura.
+*   Apêndice da apostila [“Java e Orientação a Objetos”](https://www.alura.com.br/apostila-java-orientacao-objetos/apendice-pacote-java-io) da Alura sobre o pacote java.io que explica com mais detalhes a abstração InputStream.
+
+Aula 3 :
+
+*   Artigo na Alura [“Como não aprender Java e Orientação a Objetos: herança”](https://www.alura.com.br/artigos/como-nao-aprender-orientacao-a-objetos-heranca).
+*   Podcast Hipsters.tech sobre [Práticas de Orientação a Objetos](https://www.alura.com.br/podcast/praticas-de-orientacao-a-objetos-hipsters-129-a453).
+*   Podcast Hipsters.tech sobre [Design Patterns](https://www.alura.com.br/podcast/design-patterns-hipsters-206-a345).
+*   Podcast Hipsters.tech sobre [SOLID](https://www.alura.com.br/podcast/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219-a649).
+
+Aula 4 :
+
+*   Primeira aula do curso [“Maven: gerenciamento de dependências e build de aplicações Java”](https://www.alura.com.br/conteudo/maven-gerenciamento-dependencias-build-aplicacoes-java) da Alura.
+*   Alura+ [“O que é REST?”](https://www.youtube.com/watch?v=weQ8ssA6iBU&ab_channel=AluraCursosOnline).
+*   Artigo da Alura [“Conceito e fundamentos sobre REST”](https://www.alura.com.br/artigos/rest-conceito-e-fundamentos).
+*   Podcast [Hipsters.Tech sobre MongoDB](https://www.hipsters.tech/mongodb-hipsters-ponto-tech-305/).
+*   Hipters.Tube [“O que é SQL e NoSQL?”](https://www.youtube.com/watch?v=aure5d3B88g&ab_channel=AluraCursosOnline).
+*   Artigo da Alura [“Spring: Conheça esse framework Java”](https://www.alura.com.br/artigos/spring-conheca-esse-framework-java).
+*   Alura+ [Introdução ao Postman”](https://www.youtube.com/watch?v=op81bMbgZXs&ab_channel=AluraCursosOnline).
+
+Aula 5 :
+
+*   Artigo da Alura [“Heroku, Vercel e outras opções de Cloud como plataforma”](https://www.alura.com.br/artigos/heroku-vercel-outras-opcoes-cloud-plataforma).
+*   Podcast Hipters.Tech [“Integração Contínua, Deploy Contínuo e Github Actions”](https://www.alura.com.br/podcast/hipsterstech-integracao-continua-deploy-continuo-e-github-actions-hipsters-213-a335).
+*   Pesquisa da JetBrains, empresa que desenvolve a IDE IntelliJ, [sobre o ecossistema Java em 2021](https://www.jetbrains.com/lp/devecosystem-2021/java/).
  
 ## Autores
 
