@@ -33,13 +33,23 @@ Aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem.
 
 ## Acesso ao projeto
 
-**https://github.com/cleverlf/linguagem-api.git**
+**https://github.com/cleverlf/linguagem-api.git** - Minha API na nuvem
+
+**https://github.com/cleverlf/api-stickers.git** - Consumindo API publicas
 
 ## Técnicas e tecnologias utilizadas
 
-- ``Java 8``
-- ``InteliJ IDEA``
+- ``Java``
+- ``Visual Studio Code``
 - ``Paradigma de orientação a objetos``
+- ``Maven``
+- ``Spring Boot``
+- ``MongoDB``
+- ``Heroku``
+- ``Gson``
+- ``TMDB API``
+- ``Nasa API``
+- ``Marvel API``
 
 ## Links citados
 
@@ -108,9 +118,9 @@ Aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem.
     
 2. - [x] Usar sua criatividade para deixar a saída dos dados mais bonitinha: usar emojis com código UTF-8, mostrar a nota do filme como estrelinhas, decorar o terminal com cores, negrito e itálico usando códigos ANSI, e mais!
     
-3. - [ ] Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente
+3. - [x] Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente
     
-4. - [ ] Mudar o JsonParser para usar uma biblioteca de parsing de JSON como Jackson ou GSON
+4. - [x] Mudar o JsonParser para usar uma biblioteca de parsing de JSON como Jackson ou GSON
     
 5. - [ ] **Desafio supremo:** criar alguma maneira para você dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.
     
@@ -134,7 +144,7 @@ Aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem.
 2. - [ ] Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP
 3. - [ ] Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra
 4. - [x] Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado
-5. - [ ] **Desafio supremo:** consumir outras APIs que contém imagens, como a da Marvel, que é bem diferente. Repositório com APIs públicas: [clique aqui](https://github.com/public-apis/public-apis).
+5. - [x] **Desafio supremo:** consumir outras APIs que contém imagens, como a da Marvel, que é bem diferente. Repositório com APIs públicas: [clique aqui](https://github.com/public-apis/public-apis).
 
 *``Aula 4 :``*
 
